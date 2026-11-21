@@ -1,0 +1,13 @@
+{
+  "duration": 25.0,
+  "script": [
+    {"t": 2.6, "act": "optics"},
+    {"t": 5.4, "act": "chela"},
+    {"t": 8.2, "act": "reactor"},
+    {"t": 11.0, "act": "stinger"},
+    {"t": 13.8, "act": "leg"},
+    {"t": 16.6, "act": "exploded"},
+    {"t": 20.1, "act": "assemble"},
+    {"t": 21.6, "act": "strike"}
+  ]
+}
